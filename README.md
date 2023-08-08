@@ -13,5 +13,8 @@ Iterator Design Pattern: This program also uses the iterator design pattern, as 
 ## CA/ Code Smells:
 There are no overt code smells or violations of Clean Architecture, however, there are some SOLID principles that are not applicable and thus are not implemented in the program.
 
+
+
 Java Version: openjdk-18.0.2.1
+
 Testing Framework: JUnit 5.8.1
